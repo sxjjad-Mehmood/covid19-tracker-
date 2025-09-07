@@ -33,7 +33,7 @@ This app displays **global** and **country-wise** cases, recoveries, and deaths 
 ## 🛠️ Tech Stack
 - **Frontend:** Flutter, Dart
 - **Backend (API):** [disease.sh - Open Disease Data API](https://disease.sh/v3/covid-19/)
-- **State Management:** Provider / setState
+- **State Management:** setState
 
 ---
 
