@@ -43,7 +43,7 @@ Clone the repository and run the app locally:
 
 ```bash
 # Clone the repository
-git clone https://github.com/your-username/corona-track-app.git
+git clone https://github.com/sxjjad-Mehmood/covid19-tracker-.git
 
 # Navigate to project directory
 cd corona-track-app
